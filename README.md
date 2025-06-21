@@ -28,8 +28,8 @@ This Node.js project demonstrates an **improper but common practice**: using a `
 - Clone the repository:
 
 ```bash
-   git clone <your-repo-url>
-   cd <your-repo-name>
+   git clone https://github.com/GonzalezEzequiel-FS-1/SAD_Three_Hardcoded_Secrets_P2.git
+   cd SAD_Three_Hardcoded_Secrets_P2
 ```
 
 - Install dependencies
